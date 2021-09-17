@@ -1,0 +1,94 @@
+h1
+{
+  text-align: center;
+}
+
+h6
+{
+  color: lightgreen;
+}
+
+a
+{
+  color: darkgray;
+  text-align: right;
+}
+
+h3
+{
+  color: rgb(19, 19, 19);
+  font-family: Helvetica, sans-serif;
+}
+
+  .page {
+    border-bottom: 2px white;
+    border: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 25px;
+    width: 750px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background: white
+  }
+
+.fortalezaituxi
+{
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  width: 710px;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.backarrow
+{
+  background-color: white;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  display: inline-block;
+}
+
+.back
+{
+  background-image: none;
+  background-color: whitesmoke;
+  border: none;
+}
+
+
+.para1
+{
+  text-align: justify;
+  font-family: Helvetica, sans-serif
+}
+
+.para2
+{
+  text-align: justify;
+  font-family: Helvetica, sans-serif
+}
+
+.brazil
+{
+  color: rgb(43, 177, 43);
+  font-family: Tahoma, sans-serif;
+}
+
+.link
+{
+  color:lightgray;
+  float: right;
+  font-family: Tahoma, sans-serif;
+}
+

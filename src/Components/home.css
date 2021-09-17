@@ -1,0 +1,25 @@
+.gotobutton
+{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 750px;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border: none;
+    background-color: lightskyblue;
+    color: white;
+    font-family: Verdana, sans-serif;
+}
+
+.gotobutton:hover
+{
+    background-color: lightblue;
+}
+
+body
+{
+    background-color: rgb(158, 47, 47);
+}
+
